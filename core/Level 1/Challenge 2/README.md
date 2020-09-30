@@ -6,9 +6,9 @@
       To do that, just add an x between the square brackets.
       Example : [ ] becomes [x] -->
 
-- [ ] Create a dictionary of lists.
+- [x ] Create a dictionary of lists.
 
-- [ ] Save the dictionary object into a pickle file (create one inside the "Challenge 2" folder).
+- [ x] Save the dictionary object into a pickle file (create one inside the "Challenge 2" folder).
 
 - [ ] Read the contents of the pickle file and update a list within the dictionary.
 
